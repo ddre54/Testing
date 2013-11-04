@@ -6,3 +6,5 @@ Change in master.
 Repository to build testings for project.
 
 Add for pull request (test).
+
+Second commit feature for pull request.
