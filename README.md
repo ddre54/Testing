@@ -3,4 +3,6 @@ Testing [![Build Status](https://travis-ci.org/ddre54/Testing.png?branch=master)
 
 Change in master.
 
-Repository to build testings for project
+Repository to build testings for project.
+
+Add for pull request (test).
